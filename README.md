@@ -5,7 +5,9 @@ How to use this template
 
 Click “Use this template”
 
-Clone your new repo
+Clone your new repo (cd ~/projects
+git clone https://github.com/elyssephillips/<new-repo-name>.git
+cd <new-repo-name>)
 
 Create env from environment.yml
 
